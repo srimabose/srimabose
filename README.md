@@ -2,7 +2,8 @@
 
 🎓 M.Sc. Mathematics & Scientific Computing @ MNNIT  
 💻 Passionate about Web Development & Problem-Solving  
-🚀 Frontend Developer | SQL Enthusiast | Business Developer  
+🚀 Frontend Developer | SQL Enthusiast
+
 📌 Always eager to learn & collaborate!
 
 ---
@@ -19,8 +20,8 @@
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +30,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### **Data & Business Analytics**
+### **Data Analytics**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -41,6 +43,11 @@
 
 ---
 
+## 🚀 Projects
+[![GitHub Projects](https://img.shields.io/badge/My_Projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srimabose?tab=repositories)
+
+---
+
 ## 📊 GitHub Stats
 ![Srima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srimabose&show_icons=true&theme=radical)
 
@@ -48,3 +55,4 @@
 
 ## 🌱 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srima-bose/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srimabose?igsh=Z2d3OGFkY2Z4OWg0)
