@@ -56,3 +56,4 @@
 ## 🌱 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srima-bose/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srimabose?igsh=Z2d3OGFkY2Z4OWg0)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://67a4f184f8ab345f8b42ba0e--timely-cajeta-9b7bcd.netlify.app/)
