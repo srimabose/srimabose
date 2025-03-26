@@ -1,8 +1,7 @@
 # Hi, I'm Srima Bose! 👋
 
 🎓 M.Sc. Mathematics & Scientific Computing @ MNNIT  
-💻 Passionate about Web Development & Problem-Solving  
-🚀 Frontend Developer | SQL Enthusiast
+💻 Passionate about Problem-Solving  
 
 📌 Always eager to learn & collaborate!
 
