@@ -41,6 +41,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-ffcc00?style=for-the-badge&logo=apache-cassandra&logoColor=black)
 
+### **API Development & Integration**
+![RESTful API](https://img.shields.io/badge/RESTful_API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-292929?style=for-the-badge&logo=json&logoColor=white)
+![API Docs](https://img.shields.io/badge/API_Documentation-007ACC?style=for-the-badge&logo=swagger&logoColor=white)
+
+
 ### **Data Analytics & Visualization**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
