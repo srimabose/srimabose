@@ -2,12 +2,14 @@
 
 🎓 M.Sc. Mathematics & Scientific Computing @ MNNIT  
 💻 Passionate about Problem-Solving & Full-Stack Development  
+🧠 Currently exploring the exciting world of AI & Machine Learning  
 
 📌 Always eager to learn, build & collaborate!
 
+
 ---
 
-## 📊 LeetCode Profile & Badges
+## 📊 LeetCode Profile
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/srima_2001/)  
 ![LeetCode Badges](https://leetcard.jacoblin.cool/srima_2001?ext=heatmap&theme=dark)
 
