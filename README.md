@@ -2,6 +2,7 @@
 
 🎓 M.Sc. Mathematics & Scientific Computing @ MNNIT  
 💻 Passionate about Problem-Solving & Data Analysis
+
 🧠 Currently exploring the exciting world of AI & Machine Learning  
 
 📌 Always eager to learn, build & collaborate!
