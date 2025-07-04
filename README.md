@@ -1,7 +1,7 @@
 # Hi, I'm Srima Bose! 👋
 
 🎓 M.Sc. Mathematics & Scientific Computing @ MNNIT  
-💻 Passionate about Problem-Solving & Full-Stack Development  
+💻 Passionate about Problem-Solving & Data Analysis
 🧠 Currently exploring the exciting world of AI & Machine Learning  
 
 📌 Always eager to learn, build & collaborate!
